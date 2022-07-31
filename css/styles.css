@@ -140,7 +140,7 @@ ul {
     background: var(--main-focus-color);
 
     border-radius: 4px;
-    bottom: 0;
+    border: 0;
     padding: 10px 32px;
 }
 
